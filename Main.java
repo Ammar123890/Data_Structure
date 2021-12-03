@@ -7,5 +7,7 @@ public class Main {
         System.out.println("This is Quiz 05");
         System.out.println("Git Hub");
 
+        System.out.println("This is my first change");
+
     }
 }
